@@ -1,2 +1,2 @@
-# css-hall-of-fame
+# Hall of Fame: CSS
 gone but never forgotten

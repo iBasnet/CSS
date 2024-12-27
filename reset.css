@@ -73,15 +73,6 @@ p {
     line-height: 1.5;
 }
 
-img,
-picture,
-svg,
-video {
-    display: block;
-    /* display: inline-block; */
-    max-width: 100%;
-}
-
 p,
 h1,
 h2,
@@ -111,6 +102,15 @@ button {
     font: inherit;
     color: inherit;
     line-height: inherit;
+}
+
+svg,
+img,
+picture,
+video {
+    display: block;
+    /* display: inline-block; */
+    max-width: 100%;
 }
 
 ::selection {

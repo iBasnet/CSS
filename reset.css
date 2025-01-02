@@ -104,6 +104,10 @@ button {
     line-height: inherit;
 }
 
+button {
+  cursor: pointer;
+}
+
 svg,
 img,
 picture,
